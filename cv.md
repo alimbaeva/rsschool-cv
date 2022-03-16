@@ -1,4 +1,5 @@
-# Asel Alimbaeva 
+
+# Asel Alimbaeva
 ## Frontend Developer
 
 
@@ -74,3 +75,23 @@ function rgb(r, g, b){
 
 
 ***********
+
+
+
+
+**Courses**
+- Jyldyz Academy _(finished)_
+- Geek Brains _(in progress)_
+- RS-SCHOOL _(in progress)_
+- Jyldyz Academy(Docker, MySQL) _(in progress)_
+
+
+
+
+********
+
+
+
+
+**English**
+- Elementary
