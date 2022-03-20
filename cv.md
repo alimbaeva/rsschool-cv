@@ -12,7 +12,7 @@
 3. Discord: _@asel.alimbaeva.kk_
 4. Slack: _@Асель Алымбаева_
 5. GitHub: _[alimbaeva](https://github.com/alimbaeva)_
-6. CodeVars: _[alimbaeva](https://www.codewars.com/users/alimbaeva)_
+6. CodeWars: _[alimbaeva](https://www.codewars.com/users/alimbaeva)_
 ***
 
 
