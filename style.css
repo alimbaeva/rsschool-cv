@@ -1,0 +1,214 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+}
+
+.container{
+    width: 80%;
+    margin: 50px auto;
+    display: flex;
+    /* border: 2px solid  black; */
+}
+
+.blok-foto{
+    background-color: rgb(94, 4, 46);
+    color: wheat;
+}
+
+.img {
+    position: relative;
+
+}
+.img img{
+    width: 350px;
+    margin-bottom: 30px;
+}
+h3{
+    width: 350px;
+    text-align: center;
+    font-size: 28px;
+    color: wheat;
+    background-color: rgb(94, 4, 46);
+    position: absolute;
+    top: 485px;
+    z-index: 1;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+li{
+    margin: 10px 0;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: .7px;
+}
+
+h4{
+    background-color: wheat;
+    color: black;
+    font-size: 28px;
+    font-weight: 900;
+    margin:25px 0 13px 0;
+}
+
+.line{
+    height: 3px;
+    margin: 10px auto 0 0;
+    background-color: red;
+}
+.html{
+    width: 90%;
+}
+.css{
+    width: 80%;
+}
+.js{
+    width: 80%;
+}
+.git{
+    width: 60%;
+}
+.python{
+    width: 50%;
+}
+
+.contacts li{
+    display: flex;
+    margin: 20px 0;
+    align-items: center;
+}
+
+.contacts li svg, img{
+    margin-right: 15px;
+}
+
+.icon{
+    fill: wheat;
+}
+
+/* ============ */
+
+.blok-about{
+    margin-left: 35px;
+    width: 100%;
+}
+
+h1{
+    font-size: 60px;
+    color: rgb(94, 4, 46);
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 30px;
+    border-bottom: 3px solid rgb(94, 4, 46);
+}
+
+.about-me p{
+    font-size: 28px;
+    margin: 18px;
+}
+
+.portfolio ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portfolio li{
+    width: 350px;
+    height: 50px;
+    margin: 15px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(94, 4, 46);
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.portfolio li a{
+    font-size: 24px;
+    width: 100%;
+    text-align: center;
+}
+
+.reapeat ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.reapeat li{
+    width: 350px;
+    height: 50px;
+    margin: 15px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(94, 4, 46);
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.reapeat li a{
+    font-size: 24px;
+    width: 100%;
+    text-align: center;
+}
+
+.exemple pre{
+    font-weight: 600;
+    letter-spacing: .6px;
+    line-height: 3;
+    background-color: aliceblue;
+}
+
+.courses li p{
+    margin: 25px 0;
+    font-size: 22px;
+}
+
+.english p{
+    font-size: 22px;
+    font-weight: 900;
+}
+
+
+@media (max-width: 768px) {
+    .container{
+        width: 96%;
+        flex-direction: column;
+    }
+
+    .blok-foto{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .blok-foto div{
+        margin: 0 15px 25px 0;
+    }
+
+    .about-me p{
+        width: 85%;
+    }
+    h4, h1, h2{
+        width: 85%;
+    }
+    .exemple pre{
+        width: 85%;
+        background-color: white;
+    }
+    /* .items{
+        display: flex;
+        flex-wrap: wrap;
+    } */
+    
+}
