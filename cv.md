@@ -13,7 +13,7 @@
 ### SKILLS
 ***
 
-**JavaScript | Type Script | React | Next.js | Redux toolkit | Git | HTML | CSS3 | SCSS, SAAS | Eslint | Perfect Pixel | MUI**
+JavaScript | Type Script | React | Next.js | Redux toolkit | Git | HTML | CSS3 | SCSS, SAAS | Eslint | Perfect Pixel | MUI
 
 
 ### CONTACTS:
