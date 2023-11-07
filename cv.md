@@ -85,3 +85,22 @@ Redux-toolkit tool, which helped improve the ease of interaction with props and 
 *** 
 
 I love learning new things and overcoming difficulties, and this character led me to this profession, and the ability to manage time and set priorities helped me master this profession, that is, move from the humanities to coding with a three-year-old child. Over the summer of 2023, I participated in 2 hackathons, gained good experience, and realized that the ability to sell a product is as important as the product itself, I understood what pitching is. I completed an internship at the startup "tvoe.live" and gained good experience in analyzing other people's code and optimizing the structure of the project.
+
+
+### Code Example
+***
+
+```
+Array.prototype.reduce = function(process, initial) {
+  let count=initial;
+  for(let i=0; i< this.length;i++){
+   if (!count){
+     count=this[0];
+    } else {   
+    count=process(count, this[i])
+    }
+  }
+  return count
+}
+```
+[Frontend developer](https://app.rs.school/certificate/0ck7w2x5)
