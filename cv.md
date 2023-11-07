@@ -84,5 +84,4 @@ Redux-toolkit tool, which helped improve the ease of interaction with props and 
 ### PROFILE
 *** 
 
-I like to “think out loud” and analyze films and cartoons. In my free time I try to walk in nature and play sports. I don’t like to sit idle and therefore I’m always looking for interesting ideas and activities. For me this is the most precious thing
-time and health. That's why I'm punctual and appreciate people giving me their time.
+I love learning new things and overcoming difficulties, and this character led me to this profession, and the ability to manage time and set priorities helped me master this profession, that is, move from the humanities to coding with a three-year-old child. Over the summer of 2023, I participated in 2 hackathons, gained good experience, and realized that the ability to sell a product is as important as the product itself, I understood what pitching is. I completed an internship at the startup "tvoe.live" and gained good experience in analyzing other people's code and optimizing the structure of the project.
