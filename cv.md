@@ -103,4 +103,4 @@ Array.prototype.reduce = function(process, initial) {
   return count
 }
 ```
-[Frontend developer](https://app.rs.school/certificate/0ck7w2x5)
+[to codewars](https://www.codewars.com/users/alimbaeva/completed_solutions)
