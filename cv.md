@@ -1,3 +1,11 @@
+<img src="images/I.jpg" alt="main foto" width="280" height="Высота">
+
+***
+***
+***
+
+
+
 # Asel Alymbaeva
 ## Frontend developer ( JS / TS / React / Next.js / Redux toolkit )
 
@@ -16,6 +24,8 @@
 [![telegram](icons/telegram.svg) -- asel4A](https://t.me/asel4A)
 
 [![github](icons/github.svg) -- alimbaeva](https://github.com/alimbaeva)
+
+[![discord](icons/discord.svg) -- asel.alimbaeva](https://discord.com/channels)
 
 
 ### PROFESSIONAL EXPERIENCE
